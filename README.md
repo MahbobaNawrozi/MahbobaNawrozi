@@ -1,5 +1,6 @@
-👋 Hey there, I'm [Your Name]
-Backend developer passionate about building robust, scalable server-side applications. I specialize in JavaScript ecosystems and SQL databases.
+👋 Hey there,
+
+I'm Mahboba Nawroz backend developer  I specialize in JavaScript ecosystems and SQL databases.
 🛠️ Tech Stack
 Languages & Runtimes
 JavaScript (ES6+)
