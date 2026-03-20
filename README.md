@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**MahbobaNawrozi/MahbobaNawrozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hey there, I'm [Your Name]
+Backend developer passionate about building robust, scalable server-side applications. I specialize in JavaScript ecosystems and SQL databases.
+🛠️ Tech Stack
+Languages & Runtimes
+JavaScript (ES6+)
+Node.js
+Frameworks
+Express.js — building RESTful APIs and middleware
+NestJS — enterprise-grade architecture with dependency injection
+Databases
+SQL (PostgreSQL, MySQL) — schema design, complex queries, optimization
+💡 What I Do
+Design and implement RESTful & GraphQL APIs
+Database modeling and query optimization
+Authentication & authorization systems
+Microservices architecture
+API documentation (Swagger/OpenAPI)
+🚀 Currently Exploring
+TypeScript for type-safe backend development
+Message queues (RabbitMQ, Redis)
+Containerization with Docker
